@@ -4,5 +4,16 @@
   "artist": "Arisaka Ako",
   "author": "Arisaka Ako",
   "cover": "https://i.pximg.net/img-original/img/2020/11/22/05/07/14/85816942_p0.jpg",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "",
+      "last_updated": "1639839541",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
